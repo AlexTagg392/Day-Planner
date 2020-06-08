@@ -22,6 +22,7 @@
 
 ## Installation:
     No installation needed
+    https://alextagg392.github.io/Homework_Day-Planner/
 
 ## Usage:
     This is a very useful program where any user can use it to schedule out their day.
