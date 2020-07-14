@@ -1,4 +1,4 @@
-# Homework_Day-Planner
+# Day-Planner
 
 
 ##  Table of Contents:
